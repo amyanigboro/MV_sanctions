@@ -4,11 +4,10 @@
 
 1. Install python 3 if not already done.
 2. Install required packages if not already done:
-   -pandas
-   -numpy
    
-   pip install pandas
-   pip install numpy 
+   -pip install pandas
+   
+   -pip install numpy 
 
 ## Things to note
 
