@@ -7,7 +7,9 @@
    
    -pip install pandas
    
-   -pip install numpy 
+   -pip install numpy
+
+3. Run script in the same folder as ConList.csv
 
 ## Things to note
 
